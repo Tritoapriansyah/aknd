@@ -1,0 +1,23 @@
+{
+    "ownerNumber": "6286719692541@s.whatsapp.net",
+    "ownerName": "Aldi Ganzz",
+    "limitCount": 30,
+    "gamewaktu": 60,
+    "botName": "XennBotZ",
+    "pathImg": "./media/Itsuki.jpg",
+    "lolkey": "RiswanJB",
+    "sesidInsta": "default",
+    "sessionName": "aqulzz",
+    "txtDonasi": "DANA : 089514334065\nPULSA : 085719692541",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
